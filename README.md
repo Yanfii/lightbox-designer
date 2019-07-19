@@ -1,5 +1,5 @@
 # lightbox-designer
-Create Custom Paper Light Boxes using the Power of AI
+Create Custom Paper Light Boxes using the Power of AI. 1st place at Microsoft DisruptAI Hackathon.
 
 
 Setup instructions
